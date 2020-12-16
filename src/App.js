@@ -1,6 +1,6 @@
 import "./App.css";
 import Homepage from "./pages/Homepage/Homepage.component";
-import Hatspage from "./pages/HatsPage/Hatspage.component";
+import Shop from "./pages/Shop/Shop.component";
 import {
   BrowserRouter as Router,
   Switch,
@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/" component={Homepage}></Route>
-          <Route path="/hats" component={Hatspage}></Route>
+          <Route path="/shop" component={Shop}></Route>
         </Switch>
       </Router>
     </div>
