@@ -7,19 +7,19 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        imageUrl: 'https://www.expocafeperu.com/w/2020/06/dsquared2-wide-brim-fedora-hat-brown-hats-for-women-official-store-golf-sun-toe-box-running-shoes.jpg',
         price: 25
       },
       {
         id: 2,
         name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        imageUrl: 'https://www.refinery29.com/images/9267770.jpg?crop=40%3A21',
         price: 18
       },
       {
         id: 3,
         name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        imageUrl: 'https://images.unsplash.com/photo-1512787851826-e200845bb06f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y293Ym95JTIwaGF0fGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80',
         price: 35
       },
       {

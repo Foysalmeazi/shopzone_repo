@@ -8,11 +8,13 @@ import {
   Link,
   BrowserRouter,
 } from "react-router-dom";
+import Header from './components/Header/Header.component'
 
 function App() {
   return (
     <div>
       <Router>
+        <Header/>
         <Switch>
           <Route exact path="/" component={Homepage}></Route>
           <Route path="/shop" component={Shop}></Route>
